@@ -61,3 +61,7 @@ This project demonstrated how Machine Learning + Data Analytics can deliver acti
 ## 🛠 Tools & Technologies:
 
 ## Python | Pandas | NumPy | Matplotlib | Seaborn | Scikit-learn | XGBoost | Jupyter Notebook
+
+## 💼 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/saumyasuteshnu-behera-50a478209/)
