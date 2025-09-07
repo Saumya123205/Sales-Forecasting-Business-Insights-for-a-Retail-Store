@@ -1,5 +1,5 @@
 # 🚀 Project Showcase: Sales Forecasting & Business Insights for a Retail Store
-<img width="280" height="350" alt="Infographic Image for Sales Forecasting Project" src="https://github.com/user-attachments/assets/34e7e710-d61d-47fe-990a-f9250cccfba4" />
+<img width="320" height="400" alt="Infographic Image for Sales Forecasting Project" src="https://github.com/user-attachments/assets/34e7e710-d61d-47fe-990a-f9250cccfba4" />
 
 
 I recently completed a Sales Forecasting Project where I applied end-to-end Data Analysis & Machine Learning techniques to analyze 420K+ retail transactions and forecast weekly sales across multiple stores and departments.
